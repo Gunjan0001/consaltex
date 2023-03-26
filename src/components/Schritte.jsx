@@ -155,7 +155,8 @@ const Schritte = () => {
             <div
               className="schrittecards d-flex flex-column align-items-center p-3 p-lg-4 h-100 position-relative"
               data-aos="zoom-in"
-              data-aos-duration="4000"
+              data-aos-duration="3000"
+              data-aos-offset="500"
             >
               <img
                 className="position-absolute teer_set d-none d-xl-block"
@@ -227,7 +228,8 @@ const Schritte = () => {
             <div
               className="schrittecards d-flex flex-column align-items-center p-3 p-lg-4 h-100 position-relative"
               data-aos="zoom-in"
-              data-aos-duration="4000"
+              data-aos-duration="3000"
+              data-aos-offset="500"
             >
               <img
                 className="position-absolute teer_set d-none d-xl-block"
@@ -310,7 +312,8 @@ const Schritte = () => {
             <div
               className="schrittecards d-flex flex-column align-items-center p-3 p-lg-4 h-100 position-relative"
               data-aos="zoom-in"
-              data-aos-duration="4000"
+              data-aos-duration="3000"
+              data-aos-offset="500"
             >
               <img
                 className="position-absolute teer_set d-none d-xl-block"
@@ -382,7 +385,8 @@ const Schritte = () => {
             <div
               className="schrittecards d-flex flex-column align-items-center p-3 p-lg-4 h-100"
               data-aos="zoom-in"
-              data-aos-duration="4000"
+              data-aos-duration="3000"
+              data-aos-offset="500"
             >
               <svg
                 className="changeonhover"

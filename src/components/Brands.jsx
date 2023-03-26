@@ -10,7 +10,8 @@ const Brands = () => {
       <div
         className="d-flex justify-content-center mt-sm-5 pt-sm-5 position_para"
         data-aos="fade-down"
-        data-aos-duration="4000"
+        data-aos-duration="3000"
+        data-aos-offset="500"
       >
         <p className="mb-0 common_para para mt-lg-5   ms-md-4 ">
           <span className="ms-5 ps-1">Wie Testosteron für deine Agentur</span>
@@ -19,7 +20,8 @@ const Brands = () => {
       <div
         className=" overflow-auto "
         data-aos="zoom-in-up"
-        data-aos-duration="4000"
+        data-aos-duration="3000"
+        data-aos-offset="500"
       >
         <div className=" d-flex justify-content-between mt-4 w_1370 ms-auto px-3 align-items-center  ">
           <div className="">

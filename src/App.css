@@ -42,7 +42,6 @@
   font-family: var(--ff-poiret-one);
 }
 
-
 /* text-colors */
 .text_primary {
   color: var(--clr-primary);
@@ -151,8 +150,6 @@
 }
 
 /* NAVBAR */
-
-
 .menu_line {
   width: 100%;
   display: inline-block;
@@ -228,7 +225,6 @@ a:hover {
   color: var(--clr-primary) !important;
 
 }
-
 
 .roadmap_btn {
   background: linear-gradient(107.21deg, rgba(255, 255, 255, 0.26) 2.84%, rgba(255, 255, 255, 0.06) 73.23%);
@@ -315,7 +311,6 @@ a:hover {
   box-shadow: unset !important;
 }
 
-
 .para {
   position: relative;
 }
@@ -327,7 +322,6 @@ a:hover {
   background: linear-gradient(180deg, #0CD8AE 0%, #0CD845 100%);
   border-radius: 14px;
   position: absolute;
-
   top: 10px;
 }
 
@@ -339,7 +333,6 @@ a:hover {
 .mw_329 {
   max-width: 329px;
 }
-
 
 /* KARRIE */
 .form {
@@ -357,7 +350,6 @@ a:hover {
 
 .karrie_shadow {
   position: relative;
-
 }
 
 .pinkspring_position {
@@ -665,9 +657,6 @@ a:hover {
   fill: #ea2663;
 }
 
-
-
-
 /* SCHRITTE CSS */
 .bg_circle {
   width: 74px;
@@ -713,10 +702,6 @@ a:hover {
 .cube_position {
   top: -10%;
 }
-
-
-
-
 
 /* team */
 .teamcards {
@@ -1058,7 +1043,6 @@ a:hover {
   .position_xl_absolute {
     position: absolute;
   }
-
 
   .box3_position {
     bottom: 0%;

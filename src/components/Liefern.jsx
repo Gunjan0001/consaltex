@@ -8,7 +8,11 @@ const Liefern = () => {
       <Container>
         <Row className="align-items-center z_index_2 position-relative">
           <Col md={6}>
-            <div data-aos="zoom-in-right" data-aos-duration="4000">
+            <div
+              data-aos="zoom-in-right"
+              data-aos-duration="3000"
+              data-aos-offset="500"
+            >
               <h2 className="common_heading text-center text-md-start">
                 <strong>Wir liefern Ergebnisse</strong>
               </h2>
@@ -40,7 +44,11 @@ const Liefern = () => {
             </div>
           </Col>
           <Col md={6} className="mt-5 mt-md-0">
-            <div data-aos="zoom-in-left" data-aos-duration="4000">
+            <div
+              data-aos="zoom-in-left"
+              data-aos-duration="3000"
+              data-aos-offset="500"
+            >
               <img className="w-100" src={liefern} alt="liefern" />
             </div>
           </Col>

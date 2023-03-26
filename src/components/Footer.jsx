@@ -11,7 +11,8 @@ const Footer = () => {
             <ul
               className="ps-0 d-flex flex-column align-items-center align-items-sm-start"
               data-aos="fade-right"
-              data-aos-duration="4000"
+              data-aos-duration="3000"
+              data-aos-offset="500"
             >
               <Link to="/">
                 <li>
@@ -49,7 +50,7 @@ const Footer = () => {
             <div
               className="d-flex flex-column justify-content-center align-items-center"
               data-aos="fade-down"
-              data-aos-duration="4000"
+              data-aos-duration="3000"
             >
               <img src={logo} alt="logo" />
               <p className="common_para opacity_08 text-center mt-2">

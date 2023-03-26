@@ -20,7 +20,8 @@ const Noch = () => {
             <div
               className="ps-md-5  ms-md-5"
               data-aos="fade-right"
-              data-aos-duration="4000"
+              data-aos-duration="3000"
+              data-aos-offset="500"
             >
               <div
                 className="d-flex justify-content-center justify-content-lg-start
@@ -77,7 +78,8 @@ const Noch = () => {
           <Col lg={6} className="mt-5 mt-lg-0">
             <div
               className="calender_box pt-5 px-5 pb-4"
-              data-aos-duration="4000"
+              data-aos-duration="3000"
+              data-aos-offset="500"
               data-aos="fade-left"
             >
               <div className="d-flex align-items-center justify-content-between mx-3">

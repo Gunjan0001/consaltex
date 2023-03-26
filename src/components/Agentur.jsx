@@ -28,7 +28,8 @@ function Agentur() {
               <div
                 className="positionirung text-end d-flex  flex-lg-row align-items-center align-items-lg-start"
                 data-aos="fade-right"
-                data-aos-duration="4000"
+                data-aos-duration="3000"
+                  data-aos-offset="500"
               >
                 <div className=" ps-lg-4 ps-lg-0 ">
                   <h2 className=" fill ff_montserrat fw_semibold fs_md text_light mb-0">
@@ -111,7 +112,8 @@ function Agentur() {
               <div
                 className="giwinnen text-end d-flex mt-4 mt-lg-0  align-items-center align-items-lg-start "
                 data-aos="fade-right"
-                data-aos-duration="4000"
+                data-aos-duration="3000"
+                  data-aos-offset="500"
               >
                 <div className="ms-lg-5 ms-lg-4 ps-lg-4 ms-xl-0 ps-xl-0">
                   <h2 className=" fill ff_montserrat fw_semibold fs_md text_light mb-0">
@@ -195,7 +197,8 @@ function Agentur() {
               <div
                 className="range text-end d-flex mt-4 mt-lg-0 align-items-center align-items-lg-start "
                 data-aos="fade-right"
-                data-aos-duration="4000"
+                data-aos-duration="3000"
+                  data-aos-offset="500"
               >
                 <div className=" ps-lg-4 ps-lg-0">
                   <h2 className=" fill ff_montserrat fw_semibold fs_md text_light mb-0">
@@ -269,7 +272,8 @@ function Agentur() {
               <div
                 className="vertribe text-end d-flex mt-4 mt-lg-0 align-items-center align-items-lg-start "
                 data-aos="fade-right"
-                data-aos-duration="4000"
+                data-aos-duration="3000"
+                  data-aos-offset="500"
               >
                 <div className="mt-md-2">
                   <h2 className=" fill ff_montserrat fw_semibold fs_md text_light mb-0">
@@ -353,7 +357,8 @@ function Agentur() {
               </div>
               <div
                 className="prozesse d-flex mt-4 text-end text-lg-start mt-lg-0 align-items-center align-items-lg-start flex-row-reverse flex-lg-row"
-                data-aos-duration="4000"
+                data-aos-duration="3000"
+                  data-aos-offset="500"
                 data-aos="fade-left"
               >
                 <div className="  ps-0 px-sm-4 px-2">
@@ -428,7 +433,8 @@ function Agentur() {
               <div
                 className="team d-flex mt-4 mt-lg-0  align-items-center align-items-lg-start flex-row-reverse flex-lg-row text-end text-lg-start"
                 data-aos="fade-left"
-                data-aos-duration="4000"
+                data-aos-duration="3000"
+                  data-aos-offset="500"
               >
                 <div className="  ps-0 px-sm-4 px-2">
                   <svg

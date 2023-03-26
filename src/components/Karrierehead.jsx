@@ -40,7 +40,8 @@ const Karrierehead = () => {
                 lg={6}
                 className="ps-5"
                 data-aos="zoom-in-right"
-                data-aos-duration="4000"
+                data-aos-duration="3000"
+                data-aos-offset="500"
               >
                 <div className="ps-5">
                   <p className="common_para opacity_08 mb-4">
@@ -87,7 +88,8 @@ const Karrierehead = () => {
                 <div
                   className="order-1 order-lg-2"
                   data-aos="zoom-in-left"
-                  data-aos-duration="4000"
+                  data-aos-duration="3000"
+                  data-aos-offset="500"
                 >
                   <form
                     className="form mx-auto"

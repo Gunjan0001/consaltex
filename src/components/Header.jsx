@@ -27,7 +27,8 @@ const Header = () => {
             <div
               className="ms-sm-5 ps-sm-4"
               data-aos="fade-down"
-              data-aos-duration="4000"
+              data-aos-duration="3000"
+              data-aos-offset="500"
             >
               <p className="mb-0 common_para para  ms-md-4">
                 <span className="ms-5 ps-1">
@@ -38,7 +39,8 @@ const Header = () => {
             <h2
               className="fw_regular ff_poiret fs_6xl text_primary text-center pt-2 pb-2"
               data-aos="fade-down"
-              data-aos-duration="4000"
+              data-aos-duration="3000"
+              data-aos-offset="500"
             >
               <strong>
                 Wir verhelfen{" "}
@@ -48,7 +50,8 @@ const Header = () => {
             <h2
               className="fw_regular ff_poiret fs_6xl text_primary text-center pb-xl-5 mb-xl-5 translate-middle-y mt-4 pt-md-5"
               data-aos="fade-down"
-              data-aos-duration="4000"
+              data-aos-duration="3000"
+              data-aos-offset="500"
             >
               <strong> zu Rekordumsätzen</strong>
             </h2>
@@ -63,7 +66,8 @@ const Header = () => {
                   <img
                     className="w-100   headerzunde_set z_index_4 "
                     data-aos="fade-right"
-                    data-aos-duration="4000"
+                    data-aos-duration="3000"
+                    data-aos-offset="500"
                     src={zunde}
                     alt="zunde"
                   />
@@ -72,7 +76,8 @@ const Header = () => {
               <Col md={5}>
                 <div
                   className="mt-4"
-                  data-aos-duration="4000"
+                  data-aos-duration="3000"
+                  data-aos-offset="500"
                   data-aos="fade-left"
                 >
                   <p className="common_para mb-0 mw_329 mx-auto mx-md-0 text-center text-md-start ">

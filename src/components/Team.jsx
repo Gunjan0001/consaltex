@@ -54,8 +54,12 @@ export default function SimpleSlider() {
           </h2>
           <div className="py-md-5">
             <Slider ref={my_slider} {...settings}>
-              <div className="pe-md-4"  data-aos="zoom-in"
-                data-aos-duration="4000">
+              <div
+                className="pe-md-4"
+                data-aos="zoom-in"
+                data-aos-duration="3000"
+                data-aos-offset="500"
+              >
                 <div className="teamcards h-100 ">
                   <img className="w-100" src={member1} alt="member1" />
                   <div className="d-flex justify-content-between pt-4  px-3 align-items-center">
@@ -75,8 +79,12 @@ export default function SimpleSlider() {
                   </div>
                 </div>{" "}
               </div>
-              <div className="pe-md-4"  data-aos="zoom-in"
-                data-aos-duration="4000">
+              <div
+                className="pe-md-4"
+                data-aos="zoom-in"
+                data-aos-duration="3000"
+                data-aos-offset="500"
+              >
                 <div className="teamcards h-100 ">
                   <img className="w-100" src={member2} alt="member2" />
                   <div className="d-flex justify-content-between pt-4  px-3 align-items-center">
@@ -96,8 +104,12 @@ export default function SimpleSlider() {
                   </div>
                 </div>{" "}
               </div>
-              <div className="pe-md-4"  data-aos="zoom-in"
-                data-aos-duration="4000">
+              <div
+                className="pe-md-4"
+                data-aos="zoom-in"
+                data-aos-duration="3000"
+                data-aos-offset="500"
+              >
                 <div className="teamcards h-100 ">
                   <img className="w-100" src={member3} alt="member2" />
                   <div className="d-flex justify-content-between pt-4  px-3 align-items-center">

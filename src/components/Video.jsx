@@ -48,7 +48,12 @@ export default function SimpleSlider() {
           </h2>
           <div className="py-md-5">
             <Slider ref={my_slider} {...settings}>
-              <div className="pe-md-4" data-aos="flip-up" data-aos-duration="4000">
+              <div
+                className="pe-md-4"
+                data-aos="flip-up"
+                data-aos-duration="3000"
+                data-aos-offset="500"
+              >
                 <div className="videocard h-100 d-flex flex-column justify-content-between">
                   <article>
                     <img className="w-100" src={video1} alt="video1" />
@@ -67,7 +72,12 @@ export default function SimpleSlider() {
                   </article>
                 </div>
               </div>
-              <div className="pe-md-4" data-aos="flip-up" data-aos-duration="4000">
+              <div
+                className="pe-md-4"
+                data-aos="flip-up"
+                data-aos-duration="3000"
+                data-aos-offset="500"
+              >
                 <div className="videocard h-100 d-flex flex-column justify-content-between">
                   <article>
                     <img className="w-100" src={video1} alt="video1" />
@@ -87,7 +97,12 @@ export default function SimpleSlider() {
                   </div>
                 </div>
               </div>
-              <div className="pe-md-4" data-aos="flip-up" data-aos-duration="4000">
+              <div
+                className="pe-md-4"
+                data-aos="flip-up"
+                data-aos-duration="3000"
+                data-aos-offset="500"
+              >
                 <div className="videocard h-100 d-flex flex-column justify-content-between">
                   <article>
                     <img className="w-100" src={video3} alt="video3" />

@@ -52,7 +52,7 @@ export default function SimpleSlider() {
             <div
               className="slider_card h-100 mt-5"
               data-aos="zoom-in-up"
-              data-aos-duration="4000"
+              data-aos-duration="3000"   data-aos-offset="500"
             >
               <img className="w-100" src={big_video} alt="slidercard" />{" "}
               <p className=" mb-0 ff_montserrat fw_medium fs_base text_primary p-3 opacity_08">
@@ -75,7 +75,7 @@ export default function SimpleSlider() {
                   <div
                     className="pe-md-4"
                     data-aos="zoom-in-up"
-                    data-aos-duration="4000"
+                    data-aos-duration="3000"   data-aos-offset="500"
                   >
                     <div className="slider_cards h-100 ">
                       <img
@@ -95,7 +95,7 @@ export default function SimpleSlider() {
                   <div
                     className="pe-md-4"
                     data-aos="zoom-in-up"
-                    data-aos-duration="4000"
+                    data-aos-duration="3000"   data-aos-offset="500"
                   >
                     <div className="slider_cards h-100 ">
                       <img
@@ -115,7 +115,7 @@ export default function SimpleSlider() {
                   <div
                     className="pe-md-4"
                     data-aos="zoom-in-up"
-                    data-aos-duration="4000"
+                    data-aos-duration="3000"   data-aos-offset="500"
                   >
                     <div className="slider_cards h-100 ">
                       <img
@@ -139,7 +139,7 @@ export default function SimpleSlider() {
                   <div
                     className="pe-md-4"
                     data-aos="zoom-in-up"
-                    data-aos-duration="4000"
+                    data-aos-duration="3000"   data-aos-offset="500"
                   >
                     <div className="slider_cards h-100 ">
                       <img
@@ -159,7 +159,7 @@ export default function SimpleSlider() {
                   <div
                     className="pe-md-4"
                     data-aos="zoom-in-up"
-                    data-aos-duration="4000"
+                    data-aos-duration="3000"   data-aos-offset="500"
                   >
                     <div className="slider_cards h-100 ">
                       <img
@@ -179,7 +179,7 @@ export default function SimpleSlider() {
                   <div
                     className="pe-md-4"
                     data-aos="zoom-in-up"
-                    data-aos-duration="4000"
+                    data-aos-duration="3000"   data-aos-offset="500"
                   >
                     <div className="slider_cards h-100 ">
                       <img
@@ -203,7 +203,7 @@ export default function SimpleSlider() {
                   <div
                     className="pe-md-4"
                     data-aos="zoom-in-up"
-                    data-aos-duration="4000"
+                    data-aos-duration="3000"   data-aos-offset="500"
                   >
                     <div className="slider_cards h-100 ">
                       <img
@@ -223,7 +223,7 @@ export default function SimpleSlider() {
                   <div
                     className="pe-md-4"
                     data-aos="zoom-in-up"
-                    data-aos-duration="4000"
+                    data-aos-duration="3000"   data-aos-offset="500"
                   >
                     <div className="slider_cards h-100 ">
                       <img
@@ -243,7 +243,7 @@ export default function SimpleSlider() {
                   <div
                     className="pe-md-4"
                     data-aos="zoom-in-up"
-                    data-aos-duration="4000"
+                    data-aos-duration="3000"   data-aos-offset="500"
                   >
                     <div className="slider_cards h-100 ">
                       <img
