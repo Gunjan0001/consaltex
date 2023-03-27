@@ -58,7 +58,7 @@ export default function SimpleSlider() {
                 className="pe-md-4"
                 data-aos="zoom-in"
                 data-aos-duration="3000"
-                data-aos-offset="500"
+                data-aos-offset="300"
               >
                 <div className="teamcards h-100 ">
                   <img className="w-100" src={member1} alt="member1" />
@@ -83,7 +83,7 @@ export default function SimpleSlider() {
                 className="pe-md-4"
                 data-aos="zoom-in"
                 data-aos-duration="3000"
-                data-aos-offset="500"
+                data-aos-offset="300"
               >
                 <div className="teamcards h-100 ">
                   <img className="w-100" src={member2} alt="member2" />
@@ -108,7 +108,7 @@ export default function SimpleSlider() {
                 className="pe-md-4"
                 data-aos="zoom-in"
                 data-aos-duration="3000"
-                data-aos-offset="500"
+                data-aos-offset="300"
               >
                 <div className="teamcards h-100 ">
                   <img className="w-100" src={member3} alt="member2" />

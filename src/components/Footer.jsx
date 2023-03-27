@@ -12,7 +12,6 @@ const Footer = () => {
               className="ps-0 d-flex flex-column align-items-center align-items-sm-start"
               data-aos="fade-right"
               data-aos-duration="3000"
-              data-aos-offset="500"
             >
               <Link to="/">
                 <li>

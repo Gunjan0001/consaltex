@@ -4,7 +4,7 @@ import Slider from "react-slick";
 import video1 from "../assets/images/png/video1.png";
 import video2 from "../assets/images/png/video2.png";
 import video3 from "../assets/images/png/video3.png";
-import line from "../assets/images/png/line.png";
+
 export default function SimpleSlider() {
   const my_slider = useRef();
 
@@ -52,7 +52,7 @@ export default function SimpleSlider() {
                 className="pe-md-4"
                 data-aos="flip-up"
                 data-aos-duration="3000"
-                data-aos-offset="500"
+                data-aos-offset="300"
               >
                 <div className="videocard h-100 d-flex flex-column justify-content-between">
                   <article>
@@ -76,11 +76,11 @@ export default function SimpleSlider() {
                 className="pe-md-4"
                 data-aos="flip-up"
                 data-aos-duration="3000"
-                data-aos-offset="500"
+                data-aos-offset="300"
               >
                 <div className="videocard h-100 d-flex flex-column justify-content-between">
                   <article>
-                    <img className="w-100" src={video1} alt="video1" />
+                    <img className="w-100" src={video2} alt="video1" />
                     <p className="common_para opacity_08 mb-0 px-4 pt-3">
                       <i>Oct.05, 2022</i>
                     </p>
@@ -101,7 +101,7 @@ export default function SimpleSlider() {
                 className="pe-md-4"
                 data-aos="flip-up"
                 data-aos-duration="3000"
-                data-aos-offset="500"
+                data-aos-offset="300"
               >
                 <div className="videocard h-100 d-flex flex-column justify-content-between">
                   <article>

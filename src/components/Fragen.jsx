@@ -38,7 +38,7 @@ const Fragen = () => {
                   className="bg-transparent ps-0"
                   data-aos="fade-up"
                   data-aos-duration="3000"
-                  data-aos-offset="500"
+                  data-aos-offset="300"
                 >
                   <Accordion.Header className="bg-transparent ps-0">
                     <h2 className="ff_montserrat fw_semibold fs_md text_primary ps-0 pt-0">
@@ -61,7 +61,7 @@ const Fragen = () => {
                   className="mt-3 bg-transparent ps-0 pt-0"
                   data-aos="fade-up"
                   data-aos-duration="3000"
-                  data-aos-offset="500"
+                  data-aos-offset="300"
                 >
                   <Accordion.Header className="bg-transparent">
                     <h2 className="ff_montserrat fw_semibold fs_md text_primary ps-0 pt-0">
@@ -82,7 +82,7 @@ const Fragen = () => {
                 <Accordion.Item
                   data-aos="fade-up"
                   data-aos-duration="3000"
-                  data-aos-offset="500"
+                  data-aos-offset="300"
                   eventKey="2"
                   className="mt-3 bg-transparent ps-0 pt-0"
                 >
@@ -105,7 +105,7 @@ const Fragen = () => {
                 <Accordion.Item
                   data-aos="fade-up"
                   data-aos-duration="3000"
-                  data-aos-offset="500"
+                  data-aos-offset="300"
                   eventKey="3"
                   className="mt-3 bg-transparent ps-0 pt-0"
                 >
@@ -128,7 +128,7 @@ const Fragen = () => {
                 <Accordion.Item
                   data-aos="fade-up"
                   data-aos-duration="3000"
-                  data-aos-offset="500"
+                  data-aos-offset="300"
                   eventKey="4"
                   className="mt-3 bg-transparent"
                 >

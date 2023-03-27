@@ -1,6 +1,5 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
-import Nav from "./Nav";
 import line from "../assets/images/png/line.png";
 import location from "../assets/images/png/location.png";
 import mail from "../assets/images/png/mail.png";
@@ -41,7 +40,6 @@ const Karrierehead = () => {
                 className="ps-5"
                 data-aos="zoom-in-right"
                 data-aos-duration="3000"
-                data-aos-offset="500"
               >
                 <div className="ps-5">
                   <p className="common_para opacity_08 mb-4">
@@ -89,7 +87,6 @@ const Karrierehead = () => {
                   className="order-1 order-lg-2"
                   data-aos="zoom-in-left"
                   data-aos-duration="3000"
-                  data-aos-offset="500"
                 >
                   <form
                     className="form mx-auto"

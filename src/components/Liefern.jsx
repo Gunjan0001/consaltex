@@ -11,7 +11,7 @@ const Liefern = () => {
             <div
               data-aos="zoom-in-right"
               data-aos-duration="3000"
-              data-aos-offset="500"
+              data-aos-offset="300"
             >
               <h2 className="common_heading text-center text-md-start">
                 <strong>Wir liefern Ergebnisse</strong>
@@ -47,7 +47,7 @@ const Liefern = () => {
             <div
               data-aos="zoom-in-left"
               data-aos-duration="3000"
-              data-aos-offset="500"
+              data-aos-offset="300"
             >
               <img className="w-100" src={liefern} alt="liefern" />
             </div>

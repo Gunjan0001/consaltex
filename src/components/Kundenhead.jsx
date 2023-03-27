@@ -5,7 +5,6 @@ import big_video from "../assets/images/png/big_video.png";
 import slidercard from "../assets/images/png/slidercard.png";
 import box3 from "../assets/images/png/box3.png";
 import spring from "../assets/images/png/spring.png";
-import Nav from "./Nav";
 export default function SimpleSlider() {
   const my_slider = useRef();
 
@@ -52,7 +51,7 @@ export default function SimpleSlider() {
             <div
               className="slider_card h-100 mt-5"
               data-aos="zoom-in-up"
-              data-aos-duration="3000"   data-aos-offset="500"
+              data-aos-duration="3000"
             >
               <img className="w-100" src={big_video} alt="slidercard" />{" "}
               <p className=" mb-0 ff_montserrat fw_medium fs_base text_primary p-3 opacity_08">
@@ -75,7 +74,7 @@ export default function SimpleSlider() {
                   <div
                     className="pe-md-4"
                     data-aos="zoom-in-up"
-                    data-aos-duration="3000"   data-aos-offset="500"
+                    data-aos-duration="3000"
                   >
                     <div className="slider_cards h-100 ">
                       <img
@@ -95,7 +94,7 @@ export default function SimpleSlider() {
                   <div
                     className="pe-md-4"
                     data-aos="zoom-in-up"
-                    data-aos-duration="3000"   data-aos-offset="500"
+                    data-aos-duration="3000"
                   >
                     <div className="slider_cards h-100 ">
                       <img
@@ -115,7 +114,7 @@ export default function SimpleSlider() {
                   <div
                     className="pe-md-4"
                     data-aos="zoom-in-up"
-                    data-aos-duration="3000"   data-aos-offset="500"
+                    data-aos-duration="3000"
                   >
                     <div className="slider_cards h-100 ">
                       <img
@@ -139,7 +138,7 @@ export default function SimpleSlider() {
                   <div
                     className="pe-md-4"
                     data-aos="zoom-in-up"
-                    data-aos-duration="3000"   data-aos-offset="500"
+                    data-aos-duration="3000"
                   >
                     <div className="slider_cards h-100 ">
                       <img
@@ -159,7 +158,7 @@ export default function SimpleSlider() {
                   <div
                     className="pe-md-4"
                     data-aos="zoom-in-up"
-                    data-aos-duration="3000"   data-aos-offset="500"
+                    data-aos-duration="3000"
                   >
                     <div className="slider_cards h-100 ">
                       <img
@@ -179,7 +178,7 @@ export default function SimpleSlider() {
                   <div
                     className="pe-md-4"
                     data-aos="zoom-in-up"
-                    data-aos-duration="3000"   data-aos-offset="500"
+                    data-aos-duration="3000"
                   >
                     <div className="slider_cards h-100 ">
                       <img
@@ -203,7 +202,7 @@ export default function SimpleSlider() {
                   <div
                     className="pe-md-4"
                     data-aos="zoom-in-up"
-                    data-aos-duration="3000"   data-aos-offset="500"
+                    data-aos-duration="3000"
                   >
                     <div className="slider_cards h-100 ">
                       <img
@@ -223,7 +222,7 @@ export default function SimpleSlider() {
                   <div
                     className="pe-md-4"
                     data-aos="zoom-in-up"
-                    data-aos-duration="3000"   data-aos-offset="500"
+                    data-aos-duration="3000"
                   >
                     <div className="slider_cards h-100 ">
                       <img
@@ -243,7 +242,7 @@ export default function SimpleSlider() {
                   <div
                     className="pe-md-4"
                     data-aos="zoom-in-up"
-                    data-aos-duration="3000"   data-aos-offset="500"
+                    data-aos-duration="3000"
                   >
                     <div className="slider_cards h-100 ">
                       <img
