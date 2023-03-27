@@ -54,7 +54,7 @@ export default function SimpleSlider() {
                 data-aos-duration="3000"
                 data-aos-offset="300"
               >
-                <div className="videocard h-100 d-flex flex-column justify-content-between">
+                <div className="videocard cursor_pointer h-100 d-flex flex-column justify-content-between">
                   <article>
                     <img className="w-100" src={video1} alt="video1" />
                     <p className="common_para opacity_08 mb-0 px-4 pt-3">
@@ -78,7 +78,7 @@ export default function SimpleSlider() {
                 data-aos-duration="3000"
                 data-aos-offset="300"
               >
-                <div className="videocard h-100 d-flex flex-column justify-content-between">
+                <div className="videocard cursor_pointer h-100 d-flex flex-column justify-content-between">
                   <article>
                     <img className="w-100" src={video2} alt="video1" />
                     <p className="common_para opacity_08 mb-0 px-4 pt-3">
@@ -103,7 +103,7 @@ export default function SimpleSlider() {
                 data-aos-duration="3000"
                 data-aos-offset="300"
               >
-                <div className="videocard h-100 d-flex flex-column justify-content-between">
+                <div className="videocard cursor_pointer h-100 d-flex flex-column justify-content-between">
                   <article>
                     <img className="w-100" src={video3} alt="video3" />
                     <p className="common_para opacity_08 mb-0 px-4 pt-3">

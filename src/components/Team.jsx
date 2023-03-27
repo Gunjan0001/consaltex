@@ -60,7 +60,7 @@ export default function SimpleSlider() {
                 data-aos-duration="3000"
                 data-aos-offset="300"
               >
-                <div className="teamcards h-100 ">
+                <div className="teamcards cursor_pointer h-100 ">
                   <img className="w-100" src={member1} alt="member1" />
                   <div className="d-flex justify-content-between pt-4  px-3 align-items-center">
                     <div className="d-flex flex-column">
@@ -85,7 +85,7 @@ export default function SimpleSlider() {
                 data-aos-duration="3000"
                 data-aos-offset="300"
               >
-                <div className="teamcards h-100 ">
+                <div className="teamcards cursor_pointer h-100 ">
                   <img className="w-100" src={member2} alt="member2" />
                   <div className="d-flex justify-content-between pt-4  px-3 align-items-center">
                     <div className="d-flex flex-column">
@@ -110,7 +110,7 @@ export default function SimpleSlider() {
                 data-aos-duration="3000"
                 data-aos-offset="300"
               >
-                <div className="teamcards h-100 ">
+                <div className="teamcards cursor_pointer h-100 ">
                   <img className="w-100" src={member3} alt="member2" />
                   <div className="d-flex justify-content-between pt-4  px-3 align-items-center">
                     <div className="d-flex flex-column">

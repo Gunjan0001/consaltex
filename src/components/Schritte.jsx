@@ -27,7 +27,7 @@ const Schritte = () => {
 
         <Carousel className="d-sm-none z_index_2 position-relative">
           <Carousel.Item>
-            <div className="schrittecards d-flex flex-column align-items-center p-3 p-lg-4 h-100 position-relative">
+            <div className="schrittecards cursor_pointer d-flex flex-column align-items-center p-3 p-lg-4 h-100 position-relative">
               <img
                 className="position-absolute z_index_2 teer_set d-none d-xl-block"
                 src={teer}
@@ -96,7 +96,7 @@ const Schritte = () => {
             </div>
           </Carousel.Item>
           <Carousel.Item>
-            <div className="schrittecards d-flex flex-column align-items-center p-3 p-lg-4 h-100 position-relative">
+            <div className="schrittecards cursor_pointer d-flex flex-column align-items-center p-3 p-lg-4 h-100 position-relative">
               <img
                 className="position-absolute teer_set d-none d-xl-block"
                 src={teer}
@@ -115,7 +115,7 @@ const Schritte = () => {
             </div>
           </Carousel.Item>
           <Carousel.Item>
-            <div className="schrittecards d-flex flex-column align-items-center p-3 p-lg-4 h-100 position-relative">
+            <div className="schrittecards cursor_pointer d-flex flex-column align-items-center p-3 p-lg-4 h-100 position-relative">
               <img
                 className="position-absolute teer_set d-none d-xl-block"
                 src={teer}
@@ -152,7 +152,7 @@ const Schritte = () => {
         <Row className="py-5 justify-content-center d-none d-sm-flex">
           <Col sm={6} lg={4} xl={3}>
             <div
-              className="schrittecards d-flex flex-column align-items-center p-3 p-lg-4 h-100 position-relative"
+              className="schrittecards cursor_pointer d-flex flex-column align-items-center p-3 p-lg-4 h-100 position-relative"
               data-aos="zoom-in"
               data-aos-duration="3000"
               data-aos-offset="300"
@@ -225,7 +225,7 @@ const Schritte = () => {
           </Col>
           <Col sm={6} lg={4} xl={3} className="mt-5 mt-sm-0">
             <div
-              className="schrittecards d-flex flex-column align-items-center p-3 p-lg-4 h-100 position-relative"
+              className="schrittecards cursor_pointer d-flex flex-column align-items-center p-3 p-lg-4 h-100 position-relative"
               data-aos="zoom-in"
               data-aos-duration="3000"
               data-aos-offset="300"
@@ -309,7 +309,7 @@ const Schritte = () => {
           </Col>
           <Col sm={6} lg={4} xl={3} className="mt-5 mt-lg-0">
             <div
-              className="schrittecards d-flex flex-column align-items-center p-3 p-lg-4 h-100 position-relative"
+              className="schrittecards cursor_pointer d-flex flex-column align-items-center p-3 p-lg-4 h-100 position-relative"
               data-aos="zoom-in"
               data-aos-duration="3000"
               data-aos-offset="300"
@@ -382,7 +382,7 @@ const Schritte = () => {
           </Col>
           <Col sm={6} lg={4} xl={3} className="mt-5 mt-xl-0">
             <div
-              className="schrittecards d-flex flex-column align-items-center p-3 p-lg-4 h-100"
+              className="schrittecards cursor_pointer d-flex flex-column align-items-center p-3 p-lg-4 h-100"
               data-aos="zoom-in"
               data-aos-duration="3000"
               data-aos-offset="300"

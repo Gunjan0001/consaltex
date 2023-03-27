@@ -76,7 +76,7 @@ export default function SimpleSlider() {
                     data-aos="zoom-in-up"
                     data-aos-duration="3000"
                   >
-                    <div className="slider_cards h-100 ">
+                    <div className="slider_cards cursor_pointer h-100 ">
                       <img
                         className="w-100"
                         src={slidercard}
@@ -96,7 +96,7 @@ export default function SimpleSlider() {
                     data-aos="zoom-in-up"
                     data-aos-duration="3000"
                   >
-                    <div className="slider_cards h-100 ">
+                    <div className="slider_cards cursor_pointer h-100 ">
                       <img
                         className="w-100"
                         src={slidercard}
@@ -116,7 +116,7 @@ export default function SimpleSlider() {
                     data-aos="zoom-in-up"
                     data-aos-duration="3000"
                   >
-                    <div className="slider_cards h-100 ">
+                    <div className="slider_cards cursor_pointer h-100 ">
                       <img
                         className="w-100"
                         src={slidercard}
@@ -140,7 +140,7 @@ export default function SimpleSlider() {
                     data-aos="zoom-in-up"
                     data-aos-duration="3000"
                   >
-                    <div className="slider_cards h-100 ">
+                    <div className="slider_cards cursor_pointer h-100 ">
                       <img
                         className="w-100"
                         src={slidercard}
@@ -160,7 +160,7 @@ export default function SimpleSlider() {
                     data-aos="zoom-in-up"
                     data-aos-duration="3000"
                   >
-                    <div className="slider_cards h-100 ">
+                    <div className="slider_cards cursor_pointer h-100 ">
                       <img
                         className="w-100"
                         src={slidercard}
@@ -180,7 +180,7 @@ export default function SimpleSlider() {
                     data-aos="zoom-in-up"
                     data-aos-duration="3000"
                   >
-                    <div className="slider_cards h-100 ">
+                    <div className="slider_cards cursor_pointer h-100 ">
                       <img
                         className="w-100"
                         src={slidercard}
@@ -204,7 +204,7 @@ export default function SimpleSlider() {
                     data-aos="zoom-in-up"
                     data-aos-duration="3000"
                   >
-                    <div className="slider_cards h-100 ">
+                    <div className="slider_cards cursor_pointer h-100 ">
                       <img
                         className="w-100"
                         src={slidercard}
@@ -224,7 +224,7 @@ export default function SimpleSlider() {
                     data-aos="zoom-in-up"
                     data-aos-duration="3000"
                   >
-                    <div className="slider_cards h-100 ">
+                    <div className="slider_cards cursor_pointer h-100 ">
                       <img
                         className="w-100"
                         src={slidercard}
@@ -244,7 +244,7 @@ export default function SimpleSlider() {
                     data-aos="zoom-in-up"
                     data-aos-duration="3000"
                   >
-                    <div className="slider_cards h-100 ">
+                    <div className="slider_cards cursor_pointer h-100 ">
                       <img
                         className="w-100"
                         src={slidercard}
