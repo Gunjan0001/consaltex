@@ -29,7 +29,7 @@ function Agentur() {
                 className="positionirung text-end d-flex  flex-lg-row align-items-center align-items-lg-start"
                 data-aos="fade-right"
                 data-aos-duration="3000"
-                  data-aos-offset="300"
+                data-aos-offset="300"
               >
                 <div className=" ps-lg-4 ps-lg-0 ">
                   <h2 className=" fill ff_montserrat fw_semibold fs_md text_light mb-0">
@@ -43,7 +43,7 @@ function Agentur() {
                 </div>
                 <div className=" px-sm-4 px-2 d-flex">
                   <svg
-                    className="svg wh_125"
+                    className="svg wh_125 cursor_pointer cursor_pointer"
                     width="107"
                     height="106"
                     viewBox="0 0 127 126"
@@ -113,7 +113,7 @@ function Agentur() {
                 className="giwinnen text-end d-flex mt-4 mt-lg-0  align-items-center align-items-lg-start "
                 data-aos="fade-right"
                 data-aos-duration="3000"
-                  data-aos-offset="300"
+                data-aos-offset="300"
               >
                 <div className="ms-lg-5 ms-lg-4 ps-lg-4 ms-xl-0 ps-xl-0">
                   <h2 className=" fill ff_montserrat fw_semibold fs_md text_light mb-0">
@@ -127,7 +127,7 @@ function Agentur() {
                 </div>
                 <div className=" px-sm-4 px-2 d-flex">
                   <svg
-                    className=" svg wh_125"
+                    className=" svg wh_125 cursor_pointer"
                     width="101"
                     height="100"
                     viewBox="0 0 101 100"
@@ -198,7 +198,7 @@ function Agentur() {
                 className="range text-end d-flex mt-4 mt-lg-0 align-items-center align-items-lg-start "
                 data-aos="fade-right"
                 data-aos-duration="3000"
-                  data-aos-offset="300"
+                data-aos-offset="300"
               >
                 <div className=" ps-lg-4 ps-lg-0">
                   <h2 className=" fill ff_montserrat fw_semibold fs_md text_light mb-0">
@@ -212,7 +212,7 @@ function Agentur() {
                 </div>
                 <div className=" px-sm-4 px-2 d-flex">
                   <svg
-                    className=" svg wh_125"
+                    className=" svg wh_125 cursor_pointer"
                     width="101"
                     height="100"
                     viewBox="0 0 101 100"
@@ -273,7 +273,7 @@ function Agentur() {
                 className="vertribe text-end d-flex mt-4 mt-lg-0 align-items-center align-items-lg-start "
                 data-aos="fade-right"
                 data-aos-duration="3000"
-                  data-aos-offset="300"
+                data-aos-offset="300"
               >
                 <div className="mt-md-2">
                   <h2 className=" fill ff_montserrat fw_semibold fs_md text_light mb-0">
@@ -288,7 +288,7 @@ function Agentur() {
                 </div>
                 <div className=" px-sm-4 px-2 d-flex">
                   <svg
-                    className=" svg wh_125"
+                    className=" svg wh_125 cursor_pointer"
                     width="101"
                     height="100"
                     viewBox="0 0 101 100"
@@ -358,12 +358,12 @@ function Agentur() {
               <div
                 className="prozesse d-flex mt-4 text-end text-lg-start mt-lg-0 align-items-center align-items-lg-start flex-row-reverse flex-lg-row"
                 data-aos-duration="3000"
-                  data-aos-offset="300"
+                data-aos-offset="300"
                 data-aos="fade-left"
               >
                 <div className="  ps-0 px-sm-4 px-2">
                   <svg
-                    className=" svg wh_125 ms-2"
+                    className=" svg wh_125 cursor_pointer ms-2"
                     width="101"
                     height="100"
                     viewBox="0 0 101 100"
@@ -434,11 +434,11 @@ function Agentur() {
                 className="team d-flex mt-4 mt-lg-0  align-items-center align-items-lg-start flex-row-reverse flex-lg-row text-end text-lg-start"
                 data-aos="fade-left"
                 data-aos-duration="3000"
-                  data-aos-offset="300"
+                data-aos-offset="300"
               >
                 <div className="  ps-0 px-sm-4 px-2">
                   <svg
-                    className=" svg wh_125 ms-2"
+                    className=" svg wh_125 cursor_pointer ms-2"
                     width="101"
                     height="100"
                     viewBox="0 0 101 100"

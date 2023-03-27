@@ -118,13 +118,13 @@ export default function SimpleSlider() {
                 </article>
                 <div className="d-flex  align-items-center  py-4 pt-md-5 mt-md-5 gap-3 justify-content-center justify-content-md-start">
                   <img
-                    onClick={() => my_slider.current.slickNext()}
+                    onClick={() => my_slider.current.slickPrev()}
                     className="cursor_pointer"
                     src={left}
                     alt="left"
                   />
                   <img
-                    onClick={() => my_slider.current.slickPrev()}
+                    onClick={() => my_slider.current.slickNext()}
                     className="cursor_pointer"
                     src={right}
                     alt="right"
